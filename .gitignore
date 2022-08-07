@@ -8,6 +8,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 database.sqlite
+vehicles.csv
+
 
 # IPython
 profile_default/
